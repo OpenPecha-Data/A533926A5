@@ -1,0 +1,19 @@
+id: A533926A5
+title: Prayer to the Guru
+type: translation
+pechas:
+- IC2FA544A
+- I954A5135
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:55:04.307853
+  last_modified_at: 2023-01-04 11:55:04.307864
+  collections:
+  - Fourth Dodrupchen Rinpoche Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IC2FA544A/4588: 402D
+  I954A5135/A860: 402D

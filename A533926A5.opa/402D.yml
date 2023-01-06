@@ -1,0 +1,27 @@
+segment_sources:
+  IC2FA544A:
+    type: origin_type
+    relation: translation
+    base: '4588'
+    lang: en
+  I954A5135:
+    type: origin_type
+    relation: translation
+    base: A860
+    lang: bo
+segment_pairs:
+  057be623659742ffb3e0ab813218341a:
+    IC2FA544A: 4105900ee4334e809ce98c7bf4f66817
+    I954A5135: c29299daac77472b93678595edeaf6c2
+  43ebb7b898c340348de036487d1f1ef4:
+    IC2FA544A: ac75659185b54bfe9fd6723082d367f1
+    I954A5135: 0bc701b87fdb4e5a99ebbd40258e6137
+  2e039c3226584f7a84377c80be9ab8d9:
+    IC2FA544A: e40006afbd36471fa51ddd8bf83606e5
+    I954A5135: e5cd5146aefb48fc8e46b4a797f318fc
+  4c5f139d5b0e434ebded8a5f06b59744:
+    IC2FA544A: 0d931563cb88474084df5b7d2ee22603
+    I954A5135: 253df800ff3c4e35887882289669e02b
+  da2d54b7dd5042d182b743f7dafbea22:
+    IC2FA544A: 7cc62ab787a44e24b5bf8d828443377a
+    I954A5135: 5c34ffba4953473f8d4f3f3f79cfbe83
